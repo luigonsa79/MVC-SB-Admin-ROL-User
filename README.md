@@ -2,8 +2,8 @@
 ## *Manejos de ROLES - PERMISOS - USUARIOS*
 ###### SB Admin 2
 
->Descripcion del `codigo` 
+>Descripcion del `código` 
 
-```Hola```
+```Sistema hecho con la arquitectura MVC por medio de un pequeño framework y helpers con configuraciones globales```
 
-[Web](gonzacr.com)
+[Para mas información:](gonzacr.com)
