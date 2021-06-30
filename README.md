@@ -6,4 +6,4 @@
 
 ```Sistema hecho con la arquitectura MVC por medio de un pequeño framework y helpers con configuraciones globales```
 
-[Para mas información:](gonzacr.com)
+[Para mas información:](https://gonzacr.com)
