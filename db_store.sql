@@ -104,8 +104,8 @@ CREATE TABLE IF NOT EXISTS `persona` (
 --
 
 INSERT INTO `persona` (`idpersona`, `identificacion`, `nombres`, `apellidos`, `telefono`, `email_user`, `password`, `nit`, `nombrefiscal`, `direccionfiscal`, `token`, `rolid`, `datecreated`, `status`) VALUES
-(1, '24091989', 'Abel', 'OSH', 24091989, 'info@abelosh.com', '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5', 'CF', 'Abel Osh', 'Ciudad de Guatemala', '', 1, '2020-10-03 02:28:53', 1),
-(2, '15932020', 'Carlos Enrrique', 'OSH', 78451210, 'carlos@info.com', '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5', '', '', '', '', 2, '2020-10-03 02:31:07', 1);
+(1, '88554422', 'Luis', 'Gonzalez', 22554422, 'info@gonzacr.com', '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5', 'CF', 'Luis Gonzalez', 'Alajuela', '', 1, '2020-10-03 02:28:53', 1),
+(2, '15932020', 'Carlos Enrrique', 'GON', 78451210, 'carlos@info.com', '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5', '', '', '', '', 2, '2020-10-03 02:31:07', 1);
 
 -- --------------------------------------------------------
 
